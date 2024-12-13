@@ -5,4 +5,7 @@
 
 #12/12/2024 - Made v0.1 into 0.1.0, and afterwards did 0.1.1
 #12/12/2024 - Reset everything with the virus to scratch
-#12/12/2024 - _
+
+#strings for ipv4 +more: https://github.com/StackZeroSec/string_analyzer
+
+_
